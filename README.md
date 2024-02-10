@@ -1,3 +1,4 @@
+# _**This repo has been archived, it is now hosted at [SnowISO on sourcehut](https://git.sr.ht/~darumaka/SnowISO)**_
 # Snow-Installer
 My custom nixos install flake
 
